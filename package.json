@@ -1,0 +1,25 @@
+{
+  "name": "express-defaultlocals",
+  "version": "1.0.0",
+  "description": "Middleware for defining default template locals in express 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keyvanfatehi/express-defaultlocals.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Keyvan Fatehi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyvanfatehi/express-defaultlocals/issues"
+  },
+  "homepage": "https://github.com/keyvanfatehi/express-defaultlocals",
+  "dependencies": {
+    "lodash.assign": "^2.4.1"
+  }
+}
